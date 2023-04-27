@@ -1,0 +1,29 @@
+{
+  "name": "uber-clone",
+  "private": true,
+  "homepage": "https://kizou.org/projects/web/uber",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@turf/turf": "^6.5.0",
+    "firebase": "^9.20.0",
+    "mapbox-gl": "^2.6.1",
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4",
+    "postcss": "^8.3.11",
+    "tailwind-styled-components": "^2.0.3",
+    "tailwindcss": "^2.2.19"
+  }
+}
