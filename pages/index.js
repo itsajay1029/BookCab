@@ -78,9 +78,6 @@ const Profile = tw.div`
   flex items-center
 `;
 
-const UberLogo = tw.img`
-  h-28
-`;
 
 const ActionButtons = tw.div`
   flex
